@@ -15,3 +15,7 @@ def test_sample03():
 def test_sample04():
     print('sample4')
     pass
+
+def test_sample05():
+    print('sample5')
+    pass
