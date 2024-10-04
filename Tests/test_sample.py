@@ -1,6 +1,3 @@
-import pytest
-
-
 def test_sample01():
     print('sample1')
     pass
@@ -13,4 +10,8 @@ def test_sample02():
 
 def test_sample03():
     print('sample3')
+    pass
+
+def test_sample04():
+    print('sample4')
     pass
